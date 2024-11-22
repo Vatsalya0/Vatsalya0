@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **sentiment analysis**
 
-- 🌱 I’m currently learning **Apache Hadoop**
+- 🌱 I’m currently learning **RAG**
 
 - 💬 Ask me about **python, Data analysis, Machine learning**
 
