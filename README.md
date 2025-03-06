@@ -9,19 +9,19 @@
 
 - 🌱 I’m currently learning **LLM fine-tuning**
 
-- 💬 Ask me about **python, Data analysis, Machine learning**
+- 💬 Ask me about **Python, Machine learning , LLMs , Deep learning **
 
 - 📫 How to reach me **vatsalyatripathi01@gmail.com**
 
 - 📄 Know about my experiences :-
- [https://drive.google.com/file/d/1Rw4D3s6idQ7ZuM4PVQphxSx7UyF7mX1c/view?usp=drivesdk]
+ [https://drive.google.com/file/d/162c-ac6KI3mztFVEqS938h6v7M2bXMna/view?usp=drivesdk]
 
 - ⚡ Fun fact **There are approximately 400,000 
           bytes of data for every grain of sand on earth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/VatsalyaTripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya tripathi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vatsalyat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya tripathi" height="30" width="40" /></a>
 <a href="https://kaggle.com/vatsalya01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vatsalya01" height="30" width="40" /></a>
 <a href="https://instagram.com/vatsalya__0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsalya__0" height="30" width="40" /></a>
 </p>
