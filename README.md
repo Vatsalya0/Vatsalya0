@@ -1,13 +1,13 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 <h1 align="center">Hi 👋, I'm Vatsalya Tripathi</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center"> AI Intern at Tax-o-Smart | Data Science & Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vatsalya0&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalya0" /> </p>
 
-- 🔭 I’m currently working on **sentiment analysis**
+- 🔭 I’m currently working on **Legal Case Summarization using Open-Source LLMs**
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning **LLM fine-tuning**
 
 - 💬 Ask me about **python, Data analysis, Machine learning**
 
