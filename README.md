@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Legal Case Summarization using Open-Source LLMs**
 
-- 🌱 I’m currently learning **LLM fine-tuning**
+- 🌱 I’m currently learning **MCP**
 
 - 💬 Ask me about **Python, Machine learning , LLMs , Deep learning **
 
