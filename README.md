@@ -43,7 +43,7 @@
 
 ---
 <!-- Two Cards Side by Side -->
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 15px; padding: 15px; background: #0D1117; border-radius: 8px; max-width: 1000px; margin: 0 auto;">
+<div style="display: flex; justify-content: left; align-items: stretch; gap: 15px; padding: 15px; background: #0D1117; border-radius: 8px; max-width: 1000px; margin: 0 auto;">
 
   <!-- Connect with Me Card -->
   <div style="flex: 1; text-align: center; padding: 15px; background: #161B22; border-radius: 6px; min-height: 250px; display: flex; flex-direction: column; justify-content: center;">
@@ -62,7 +62,7 @@
   </div>
 
   <!-- GitHub Stats Card -->
-  <div style="flex: 1; text-align: center; padding: 15px; background: #161B22; border-radius: 6px; min-height: 250px; display: flex; flex-direction: column; justify-content: center;">
+  <div style="flex: 1; text-align: center; padding: 15px; background: #161B22; border-radius: 6px; min-height: 250px; display: flex; flex-direction: column; justify-content: right;">
     <h3 style="color: #C9D1D9; font-size: 1.5em; margin-bottom: 10px;">📊 GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya0&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" style="max-width: 100%; margin-top: 10px;">
   </div>
