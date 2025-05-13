@@ -44,26 +44,25 @@
 ---
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vatsalyat" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/vatsalyat" target="blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
-  <a href="https://kaggle.com/vatsalya01" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  <a href="https://kaggle.com/vatsalya01" target="blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
-  <a href="https://instagram.com/vatsalya__0" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/vatsalya__0" target="blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </p>
-
 
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya0&" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya0&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalya0&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="height: 180px; margin-right: 10px; max-width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya0&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="height: 180px; max-width: 48%;">
+</p>
