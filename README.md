@@ -42,27 +42,29 @@
 </p>
 
 ---
+<!-- Two Cards Side by Side -->
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 15px; padding: 15px; background: #0D1117; border-radius: 8px; max-width: 1000px; margin: 0 auto;">
 
+  <!-- Connect with Me Card -->
+  <div style="flex: 1; text-align: center; padding: 15px; background: #161B22; border-radius: 6px; min-height: 250px; display: flex; flex-direction: column; justify-content: center;">
+    <h3 style="color: #C9D1D9; font-size: 1.5em; margin-bottom: 10px;">🌐 Connect with Me</h3>
+    <div style="display: flex; justify-content: center; gap: 15px;">
+      <a href="https://linkedin.com/in/vatsalyat" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 35px; width: 35px;">
+      </a>
+      <a href="https://kaggle.com/vatsalya01" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" style="height: 35px; width: 35px;">
+      </a>
+      <a href="https://instagram.com/vatsalya__0" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style="height: 35px; width: 35px;">
+      </a>
+    </div>
+  </div>
 
-<h3 align="center">🌐 Connect with Me</h3>
+  <!-- GitHub Stats Card -->
+  <div style="flex: 1; text-align: center; padding: 15px; background: #161B22; border-radius: 6px; min-height: 250px; display: flex; flex-direction: column; justify-content: center;">
+    <h3 style="color: #C9D1D9; font-size: 1.5em; margin-bottom: 10px;">📊 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya0&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" style="max-width: 100%; margin-top: 10px;">
+  </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vatsalyat" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="https://kaggle.com/vatsalya01" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-  <a href="https://instagram.com/vatsalya__0" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalya0&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="height: 180px; margin-right: 10px; max-width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya0&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="height: 180px; max-width: 48%;">
-</p>
+</div>
