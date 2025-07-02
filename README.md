@@ -2,7 +2,7 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 
 <h1 align="center">Hi 👋, I'm Vatsalya Tripathi</h1>
-<h3 align="center">Founder of TReLabs | AI x EV Builder | LLM & ML Engineer</h3>
+<h3 align="center">Founder @ TReLabs | From Prompt to Optimized CAD | LLM & ML Specialist</h3>
 
 <p align="center">
   <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
