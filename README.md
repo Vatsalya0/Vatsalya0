@@ -16,22 +16,18 @@
 
 ### 🚀 What I'm Building
 
-I'm the founder of [TReLabs](https://trelabs.tech), where we're crafting the world’s first **AI-powered R&D Co-Pilot for electric vehicle (EV) component innovation**.
+I'm the founder of [TReLabs](https://trelabs.app), where we're crafting the world’s first **AI-powered R&D Co-Pilot for  Rapid Hardware Prototyping**.
 
-- 🧠 GenAI + LLMs for EV simulations  
 - ⚙️ Converts text prompts to CAD-ready models  
-- 🔐 Secures IP using blockchain  
-- ⏱️ Optimizes design cycles from **months to hours**
+- ⏱️ Optimizes design cycles from **weeks to hours**
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 Currently building the **TReLabs prototype**
-- 🧑‍💼 AI Engineer Intern at **Tax-O-Smart**
 - 💬 Ask me about **Python, Machine Learning, LLMs, Deep Learning, LangChain**
 - 📫 Reach me at **vatsalyatripathi01@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1nRVFsMGnv2ktFvoOaZRfbXj-xY5uoQbQ/view?usp=drivesdk)
 - ⚡ Fun fact: *There are approx. 400,000 bytes of data for every grain of sand on Earth.*
 
 ---
